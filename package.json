@@ -18,7 +18,7 @@
   "homepage": "https://github.com/NurimOnsemiro/typescript_logger#readme",
   "dependencies": {
     "mkdirp": "^1.0.4",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "path": "^0.12.7",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0"
